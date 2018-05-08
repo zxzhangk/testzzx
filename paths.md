@@ -58,7 +58,7 @@ GET /api/v1/tenants/{tenantId}/namespaces/{namespace}/accesses
 |---|---|---|---|
 |**Path**|**namespace**  <br>*required*|namespace|string|
 |**Path**|**tenantId**  <br>*required*|tenantId|string|
-|**Body**|**metadata**  <br>*optional*|metadata|[Metadata](#metadata)|
+|**Body**|**metadata**  <br>*optional*|metadata|[Metadata](definitions.md#metadata)|
 
 
 ##### Responses
